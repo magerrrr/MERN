@@ -1,0 +1,26 @@
+{
+  "name": "mern-course",
+  "version": "1.0.0",
+  "description": "Mern stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magerrrr/MERN.git"
+  },
+  "keywords": [
+    "mern",
+    "React",
+    "NodeJS",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "Mager Kirill <hi.kirill.m@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magerrrr/MERN/issues"
+  },
+  "homepage": "https://github.com/magerrrr/MERN#readme"
+}
