@@ -1,4 +1,4 @@
-## Service for creating tiny links [Go to web-site](www.mager-link.ru)
+## Service for creating tiny links [Go to mager-link.ru](http://mager-link.ru)
 This is an application that uses MERN Stack (MongoDB, Express.js, React, and Node.js).
 ![](https://github.com/IBM/pattern-utils/raw/master/mern-starter/architecture.png)
 
