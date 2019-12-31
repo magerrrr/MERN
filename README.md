@@ -24,7 +24,7 @@ This is an application that uses MERN Stack (MongoDB, Express.js, React, and Nod
 1. Open main page and create new profile (skip if you already have profile) 
 ![](https://github.com/magerrrr/MERN/raw/img/img/create-user.png) 
 
-2. Input your Email and Password, click 'Войти'
+2. Input your Email and Password, click "Войти"
 ![](https://github.com/magerrrr/MERN/raw/img/img/login.png)  
 
 3. When you successfully log-in you will be immediately on the page for creating a short link (but you can 
